@@ -1,0 +1,16 @@
+{
+  "name": "redone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MergeSort.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.7.1"
+  }
+}
